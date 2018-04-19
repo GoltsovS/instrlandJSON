@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "name": "Круг шлифовальный 125 мм №40 из абразивной бумаги STAYER", "src": "https://www.instrland.ru/uploads/kxhnt/thumbs/600w-/397004.jpg", "price": "5.99", "available": "850", "link": "https://www.instrland.ru/i/krug_stayer_iz_abrazivnoy_bumagi_125mm_40_5sht/" },
+    { "id": 22087, "name": "Рулетка 1м Стандарт HOR", "src": "https://www.instrland.ru/uploads/exc73/thumbs/600w-/22087_01_big.jpg", "price": "37.00", "available": "999", "link": "https://www.instrland.ru/i/ruletka_1m_standart_hortz/" },
+    { "id": 3, "name": "Манометр сварочный О2 (кислород) радиальный ТМ-210 d50 к.т.2,5 (0..25) М12х1,5 Росма", "src": "https://www.instrland.ru/uploads/kgkhk/thumbs/600w-/2%20(1).jpg", "price": "5.99", "available": "480", "link": "https://www.instrland.ru/i/krug_stayer_iz_abrazivnoy_bumagi_125mm_40_5sht/" },
+    { "id": 3, "name": "Фреза шпоночная ц/х 2,0 мм z=2", "src": "https://www.instrland.ru/uploads/macwo/thumbs/600w-/5D3_4143_018.jpg", "price": "24.27", "available": "850", "link": "https://www.instrland.ru/i/freza_2_shpon_tskh_z2/" },
+    { "id": 3, "name": "Пила рамная 1250x180x2,2 Uddeholm", "src": "https://www.instrland.ru/uploads/gtobf/thumbs/600m-/Пилы%20рамные.jpg", "price": "1694.94", "available": "430", "link": "https://www.instrland.ru/i/pila_ramnaya_1250x180x22_uddeholm/" }
+  ]
+}
